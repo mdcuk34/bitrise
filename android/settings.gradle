@@ -1,0 +1,3 @@
+rootProject.name = 'bitrise'
+
+include ':app'
